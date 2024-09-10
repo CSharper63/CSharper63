@@ -1,6 +1,6 @@
-# About me
+# [Maxime Chantemargue](https://maxime.chantemargue.ch)
 
-I am [Maxime Chantemargue](https://maxime.chantemargue.ch), 24 years old. I am a security engineer with strong knowledge in secured software engineering and applied cryptography.
+I am 24 years old. I am a security engineer with strong knowledge in secured software engineering and applied cryptography.
 
 Here is a list of security project I made during my studies:
 - [**LoRaWAN 1.1 analysis - Bachelor thesis**](https://github.com/CSharper63/tb_iscs_lorawan)
@@ -22,3 +22,7 @@ I am also co-founder at [Tutorapp](https://tutorapp.ch). A world wide platform t
 I love challenge, that's why I made other projects during my studies such as:
 - [Greenquest](https://greenquest.ch) at EPFL Lauzhack 2023 with a friend in only 24h.
 - [Caffeino](https://caffeino.ch) with friends during spare time in my last year of bachelor.
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=csharper63&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
