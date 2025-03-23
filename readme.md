@@ -1,4 +1,4 @@
-# [Maxime Chantemargue](https://maxime.chantemargue.ch)
+# [Maxime Chantemargue](https://maxime.chantemargue.ch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxime-chantemargue/)
 
 I am 24 years old. I am a security engineer with strong knowledge in secured software engineering and applied cryptography.
 
